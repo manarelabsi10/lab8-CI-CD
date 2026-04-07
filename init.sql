@@ -8,6 +8,6 @@ INSERT INTO tasks (name, status) VALUES
   ('Eggs',         'done'),
   ('Bread',        'pending'),
   ('Butter',       'pending'),
-  ('Orange juice', 'pending');
-  ('Tea',          'pending');
+  ('Orange juice', 'pending'),
+  ('Tea',          'pending'),
   ('Tea',          'pending');
