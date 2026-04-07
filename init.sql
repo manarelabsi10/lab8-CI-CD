@@ -10,3 +10,4 @@ INSERT INTO tasks (name, status) VALUES
   ('Bread',        'pending'),
   ('Butter',       'pending'),
   ('Orange juice', 'pending');
+  ('Tea',          'pending');
